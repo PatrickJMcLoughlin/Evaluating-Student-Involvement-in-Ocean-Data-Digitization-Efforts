@@ -1,0 +1,1 @@
+This folder contains sample digitized data for Dublin Port and Kilrush, compiled in Excel worksheet format by students as part of this research. The data represents a sample of student work only.
